@@ -5,7 +5,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 gradlew*
-Keys
+src/main/resources/keys.properties
 
 ### STS ###
 .apt_generated
